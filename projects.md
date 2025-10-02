@@ -4,7 +4,7 @@ title: All Projects
 permalink: /projects/
 ---
 
-# <h2>My Electronics Project Archive</h2>
+# My Electronics Project Archive
 
 This page lists all hardware and embedded systems projects, from initial concept to final build. Click on any title for schematics, code, and detailed write-ups.
 
@@ -12,7 +12,7 @@ This page lists all hardware and embedded systems projects, from initial concept
 
 ### Project 01: Arduino Reaction Test Game
 * **Status:** Complete 
-* **Tags:** Arduino, C++, LCD, Game
+* **Tags:** Arduino, Electronics, OLED, Game
 * **[READ FULL PROJECT DETAILS HERE](https://devdrshn.github.io/projects/reaction-game-v1/)**
 
 ---
