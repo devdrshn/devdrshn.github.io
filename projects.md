@@ -13,7 +13,7 @@ This page lists all hardware and embedded systems projects, from initial concept
 ### Project 01: Arduino Reaction Test Game
 * **Status:** Complete 
 * **Tags:** Arduino, C++, LCD, Game
-* **[READ FULL PROJECT DETAILS HERE](/projects/reaction-game-v1/)**
+* **[READ FULL PROJECT DETAILS HERE](/reaction-game-v1.md)**
 
 ---
 
