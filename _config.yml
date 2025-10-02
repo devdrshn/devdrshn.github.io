@@ -10,3 +10,6 @@ theme: jekyll-theme-cayman # Or jekyll-theme-minimal, jekyll-theme-slate
 header_pages:
   - index.md
   - projects.md 
+
+# BUILD SETTINGS
+remote_theme: pages-themes/cayman@v0.2.0
