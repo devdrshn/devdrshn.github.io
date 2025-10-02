@@ -1,3 +1,12 @@
+---
+layout: default
+title: Arduino Reaction Test Game
+date: 2025-10-03 12:00:00 -0400
+categories: [Arduino, Game, Input/Output]
+tags: [Microcontroller, C++, LCD, Buttons]
+permalink: /projects/reaction-game-v1/
+---
+
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
