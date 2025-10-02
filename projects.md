@@ -4,7 +4,7 @@ title: All Projects
 permalink: /projects/
 ---
 
-# My Electronics Project Archive
+<h2> My Electronics Project Archive </h2>
 
 This page lists all hardware and embedded systems projects, from initial concept to final build. Click on any title for schematics, code, and detailed write-ups.
 
