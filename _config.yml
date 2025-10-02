@@ -1,0 +1,12 @@
+# SITE SETUP
+title: Your Name | Embedded Systems Projects
+description: A portfolio of IoT, Arduino, and custom PCB designs.
+url: "https://[your-username].github.io" # Replace with your URL
+
+# JEKYLL THEME SETUP
+theme: jekyll-theme-cayman # Or jekyll-theme-minimal, jekyll-theme-slate
+
+# NAVIGATION
+header_pages:
+  - index.md
+  - projects.md # We'll create this file next
