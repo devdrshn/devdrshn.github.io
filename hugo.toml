@@ -1,6 +1,6 @@
 baseURL = 'https://devdrshn.github.io/'
 languageCode = 'en-us'
-title = 'Dev Drshn'
+title = 'Portfolio'
 theme = 'PaperMod'
 
 [params]
