@@ -4,7 +4,7 @@ draft = false
 title = 'Minimal Component Design Challenge'
 tags = ["Circuit-Building","Electronics","Competition"] 
 [cover]
-    image= "/images/minimalcomp.png"
+    image= "https://devdrshn.github.io/images/minimalcomp.png"
     alt= "Minimal Component Design"
     relative= false
 +++
