@@ -19,8 +19,12 @@ theme = 'PaperMod'
     imageHeight = 150
     
     [[params.profileMode.buttons]]
-      name = "My Projects"
+      name = "Posts"
       url = "/posts"
+    
+    [[params.profileMode.buttons]]
+      name = "Events"
+      url = "/events"
 
     [[params.socialIcons]]
       name = "github"
