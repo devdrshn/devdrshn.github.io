@@ -1,12 +1,12 @@
 +++
-date: '2025-08-24'
-draft: false
-title: 'Minimal Component Design Challenge'
-tags: ["Circuit-Building","Electronics","Competition"] 
-cover:
-    image: "/images/minimalcomp.png"
-    alt: "Minimal Component Design"
-    relative: false
+date = '2025-08-24'
+draft = false
+title = 'Minimal Component Design Challenge'
+tags = ["Circuit-Building","Electronics","Competition"] 
+[cover]
+    image= "/images/minimalcomp.png"
+    alt= "Minimal Component Design"
+    relative= false
 +++
 
 ## Event Details
