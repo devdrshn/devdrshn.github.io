@@ -26,6 +26,10 @@ theme = 'PaperMod'
       name = "Events"
       url = "/events"
 
+    [[params.profileMode.buttons]]
+      name = "Projects"
+      url = "/projects"
+
     [[params.socialIcons]]
       name = "github"
       url = "https://github.com/devdrshn"
