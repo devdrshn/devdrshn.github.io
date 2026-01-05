@@ -2,7 +2,7 @@
 date = '2025-10-25'
 draft = false
 title = 'Engineering Mathematics'
-tags=[NPTEL,Mathematics]
+tags=["NPTEL", "Mathematics"]
 [cover]
     image="https://devdrshn.github.io/images/engmatcover.png"
     alt="Cover Picture"
