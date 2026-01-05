@@ -30,6 +30,10 @@ theme = 'PaperMod'
       name = "Projects"
       url = "/projects"
 
+    [[params.profileMode.buttons]]
+      name = "Certificates"
+      url = "/certificates"
+
     [[params.socialIcons]]
       name = "github"
       url = "https://github.com/devdrshn"
