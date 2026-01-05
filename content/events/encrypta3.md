@@ -2,7 +2,7 @@
 date = '2025-09-27'
 draft = false
 title = 'Encrypta 3.0'
-tags = ["Coding","Problem-Solving","Hackathon"] 
+tags = ["Programming","Problem-Solving","Hackathon"] 
 [cover]
     image= "https://devdrshn.github.io/images/encrypta3cover.png"
     alt= "Encrypta Title Card"
