@@ -24,4 +24,4 @@ Second part of the event consisted of a talk session by Rakesh Ravi, Mentor IEEE
 ## Certificate of Participation
 ![Certificate](/images/encrypta3cert.png)
 ## Group Discussion
-![GD](/images/encrypta3gd.jpg)
+![GD](/images/encrypta3gd.JPG)
