@@ -2,7 +2,7 @@
 title = "Python for Everybody Specialization"
 date = "2025-07-24"
 draft = false
-tags = ["Python", "Programming", "SQL", "CS"]
+tags = ["Python", "Programming", "SQL", "CS","Coursera"]
 
 [cover]
     image ="https://devdrshn.github.io/images/py4ecover.png"
@@ -13,16 +13,7 @@ tags = ["Python", "Programming", "SQL", "CS"]
 ## Certification Overview
 **Issued by:** University of Michigan (via Coursera)
 **Instructor:** Dr. Charles Severance
-**Courses included:** 
-Programming For Everybody(Getting Started with Python)
-
-Python Data Structures
-
-Using Python to Access Web Data
-
-Using Databases with Python
-
-Capstone: Retrieving, Processing, and Visualising Data with Python
+**Courses included:** <br>Programming For Everybody(Getting Started with Python)<br>Python Data Structures<br>Using Python to Access Web Data<br>Using Databases with Python<br>Capstone: Retrieving, Processing, and Visualising Data with Python.
 
 ## Technical Skills Acquired
 This specialization covers the entire workflow of Python programming, moving beyond basic syntax into data application.
