@@ -1,10 +1,10 @@
 +++
 date = '2026-02-16'
-draft = true
+draft = false
 title = 'International Physics Competition'
 tags= ["Physics","Kinematics","Science"]
 [cover]
-    image= "https://devdrshn.github.io/images/iphyc.png"
+    image= "https://devdrshn.github.io/images/iphylog.png"
     alt= "IPhyC cover"
     relative= false
 +++
@@ -17,4 +17,4 @@ tags= ["Physics","Kinematics","Science"]
 This international Physics competition tested my physics skills as well as help me attain a new skill: LaTeX. I used LaTeX for preparing the solution document. This competition provided me exposure to LaTeX document writing. The question were really fun and interesting and helped me explore world of Physics in more depth. 
 
 ## Certificates of Participation
-![PART_CERTIFICATE](/images/iphycpartcert1.jpg)
+![PART_CERTIFICATE](/images/iphyccert.jpg)
