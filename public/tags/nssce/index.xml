@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NSSCE on Portfolio</title>
+    <link>http://localhost:1313/tags/nssce/</link>
+    <description>Recent content in NSSCE on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/nssce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RoboBlitz</title>
+      <link>http://localhost:1313/events/roboblitz/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/roboblitz/</guid>
+      <description>&lt;h2 id=&#34;event-details&#34;&gt;Event Details&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Organizer:&lt;/strong&gt; EEE 2025-2029, IE(I) Electrical Chapter NSSCE.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 14 March 2026&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;event&#34;&gt;Event&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;RoboBlitz&lt;/strong&gt; was a Robotics event organized by EE batch of NSSCE 25-29 in association with IE(I) Electrical Chapter NSSCE.  &lt;!-- raw HTML omitted --&gt;
+The event&amp;rsquo;s main motive was to guide freshers to the world of Robotics. RoboBlitz consisted of three events: &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;Debate Competition on Robotics and Automation and it&amp;rsquo;s effects on human creativity and employment aspects. &lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;A technical talk session by an Industry Expert, Mr. V Vijay who is also an alumni of NSSCE introduced freshers to basic robotics components, the underlying mechanisms and the pathway for them to follow. &lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;A technical workshop where the the participants were provided kits to assemble a Line Follower Robot. This is one of the most basic projects in Robotics. &lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Personally, I was was the Event coordinator. Through that experience I have been able to develop many valuable skills and got exposure to the processes that goes behind organizing an event. &lt;!-- raw HTML omitted --&gt;
+The notable skills I was able to acquire are:  &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kinematics on Portfolio</title>
+    <link>http://localhost:1313/tags/kinematics/</link>
+    <description>Recent content in Kinematics on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/kinematics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>International Physics Competition</title>
+      <link>http://localhost:1313/events/iphyc/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/iphyc/</guid>
+      <description>&lt;h2 id=&#34;competition-details&#34;&gt;Competition Details&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Name:&lt;/strong&gt; International Physics Competition&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 16 February 2026&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
+&lt;p&gt;This international Physics competition tested my physics skills as well as help me attain a new skill: LaTeX. I used LaTeX for preparing the solution document. This competition provided me exposure to LaTeX document writing. The question were really fun and interesting and helped me explore world of Physics in more depth.&lt;/p&gt;
+&lt;h2 id=&#34;certificates-of-participation&#34;&gt;Certificates of Participation&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;PART_CERTIFICATE&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/iphyccert.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

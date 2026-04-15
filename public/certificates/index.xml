@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Certificates on Portfolio</title>
+    <link>http://localhost:1313/certificates/</link>
+    <description>Recent content in Certificates on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/certificates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Engineering Mathematics</title>
+      <link>http://localhost:1313/certificates/engineering-mathematics/</link>
+      <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/certificates/engineering-mathematics/</guid>
+      <description>&lt;h2 id=&#34;certification-overview&#34;&gt;Certification Overview&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Issued by:&lt;/strong&gt; Indian Institute of Technology Kharagpur (via NPTEL)
+&lt;strong&gt;Instructor:&lt;/strong&gt; Prof. Jitendra Kumar
+&lt;strong&gt;Course overview:&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;Differential Calculus &lt;!-- raw HTML omitted --&gt; Partial Derivatives &lt;!-- raw HTML omitted --&gt; Matrices &lt;!-- raw HTML omitted --&gt; Differential Equations&lt;/p&gt;
+&lt;h2 id=&#34;skills-acquired&#34;&gt;Skills Acquired&lt;/h2&gt;
+&lt;p&gt;As a First year EE student, this course on basics of Engineering Mathematics helped me sharpen my logical reasoning and problem solving skills. The detailed derivations and proof to each formulas helped me understand and appreciate the &amp;ldquo;why&amp;rdquo; behind every theorems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python for Everybody Specialization</title>
+      <link>http://localhost:1313/certificates/py4e/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/certificates/py4e/</guid>
+      <description>&lt;h2 id=&#34;certification-overview&#34;&gt;Certification Overview&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Issued by:&lt;/strong&gt; University of Michigan (via Coursera)
+&lt;strong&gt;Instructor:&lt;/strong&gt; Dr. Charles Severance
+&lt;strong&gt;Courses included:&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;Programming For Everybody(Getting Started with Python)&lt;!-- raw HTML omitted --&gt;Python Data Structures&lt;!-- raw HTML omitted --&gt;Using Python to Access Web Data&lt;!-- raw HTML omitted --&gt;Using Databases with Python&lt;!-- raw HTML omitted --&gt;Capstone: Retrieving, Processing, and Visualising Data with Python.&lt;/p&gt;
+&lt;h2 id=&#34;technical-skills-acquired&#34;&gt;Technical Skills Acquired&lt;/h2&gt;
+&lt;p&gt;This specialization covers the entire workflow of Python programming, moving beyond basic syntax into data application.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
