@@ -32,6 +32,6 @@ I will carry on these skill to effectively contribute to any team which I may be
 Herewith attaching my letter of appreciation from IE(I) Electrical Chapter NSSCE.
 
 ## Certificate of Participation
-![Certificate](https://devdrshn.github.io/static/images/RoboBlitzcert.jpg)
+![Certificate](/images/RoboBlitzcert.jpg)
 ## Line Following Robot Built
-![LFR](https://devdrshn.github.io/static/images/LFR.JPG)
+![LFR](/images/LFR.jpg)
