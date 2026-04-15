@@ -4,7 +4,7 @@ draft = false
 title = 'Motion Aided Traffic System'
 tags = ["Hobby","Electronics","Ergonomical"]
 [cover]
-    image= "Cover.png"
+    image= "Cover.PNG"
     alt= "Coverimage"
     relative= false
 +++
