@@ -2,7 +2,7 @@
 date = '2025-08-24'
 draft = false
 title = 'Motion Aided Traffic System'
-tags = ["Hobby","Electronics","Ergonomical"]
+tags = ["Hobby","Electronics","Socially-Relevant"]
 [cover]
     image= "Cover.PNG"
     alt= "Coverimage"
